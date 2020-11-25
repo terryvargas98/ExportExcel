@@ -1,0 +1,13 @@
+{
+    "name": "ExportExcel",
+    "alias": "exportexcel",
+    "description": "",
+    "keywords": [],
+    "priority": 0,
+    "providers": [
+        "Modules\\ExportExcel\\Providers\\ExportExcelServiceProvider"
+    ],
+    "aliases": {},
+    "files": [],
+    "requires": []
+}
